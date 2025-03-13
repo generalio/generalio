@@ -2,7 +2,7 @@
 
 - 🔭 I am currently studying in Chongqing University of Posts and Telecommunications
 - 🌱 I’m currently learning Android
-- 📫 How to reach me: generalsio826@gmail.com
+- 📫 How to reach me: [ChtlTree@outlook.com](mailto:ChtlTree@outlook.com)
 - 😄 Interesting in games,chess...
 - ✏️ My Blog: https://generalsio.top/
 
