@@ -23,4 +23,4 @@ skills:
 
 [![generalio's GitHub stats](https://github-stats-extended.vercel.app/api?username=generalio)](https://github.com/stats-organization/github-stats-extended)
 
-![generalio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=generalio&theme=xcode)
+[![generalio's GitHubCard](https://githubcard.com/generalio.svg?d=TW-WJqDR2glN)](https://githubcard.com/generalio/card?utm_source=github&utm_medium=readme)
